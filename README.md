@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=marlonandrei777&show_icons=true&bg_color=181818" alt="marlonandrei777"/> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=marlonandrei777&show_icons=true&bg_color=181818&title_color=FAFAFA" alt="marlonandrei777"/> 
  
 # Welcome!
  
