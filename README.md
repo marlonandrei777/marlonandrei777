@@ -4,7 +4,7 @@
  
 ## I'm Marlon Andrei!
  
-System Analist | Front-end and JavaScript Developer
+System Analist | Front-end Developer
  
  
 ## About me 
